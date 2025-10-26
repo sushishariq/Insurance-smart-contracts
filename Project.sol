@@ -29,7 +29,7 @@ contract InsurancePolicy is AccessControl, ReentrancyGuard {
     struct Claim {
         uint256 id;
         uint256 policyId;
-        address claimant;
+         address claimant;
         uint256 amount;
         string reason;
         bool approved;
@@ -114,3 +114,4 @@ contract InsurancePolicy is AccessControl, ReentrancyGuard {
         return id;
     }
 }
+
