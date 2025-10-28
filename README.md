@@ -9,6 +9,7 @@ The Insurance Smart Contracts project aims to create a transparent and secure in
 
 Users can buy insurance policies.
 
+ shit
 Claims are verified automatically.
 
 Payouts are handled without intermediaries.
