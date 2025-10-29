@@ -3,7 +3,7 @@
 A Solidity-based decentralized insurance system built on Ethereum.
 This project demonstrates how blockchain can be used to automate insurance policies, claim verification, and payouts using smart contracts.
 
-📌 Overview
+📌 Overview of the project
 
 The Insurance Smart Contracts project aims to create a transparent and secure insurance management system where:
 
